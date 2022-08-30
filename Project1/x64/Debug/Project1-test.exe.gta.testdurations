@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\Klaudia\source\repos\Project1\x64\Debug\Project1-test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestCaseName.TestName1" Duration="1" />
+    <TestDuration Test="TestCaseName.TestName2" Duration="1" />
+    <TestDuration Test="TestCaseName2.TestName1" Duration="1" />
+    <TestDuration Test="TestCaseName2.TestName5" Duration="1" />
+    <TestDuration Test="SumTest.Test2Plus2Equals4" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
